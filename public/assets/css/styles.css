@@ -1,0 +1,126 @@
+body {
+  font-family: Arial, helvetica, sans serif;
+}
+
+#bdy .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+  max-width: 800px;
+  margin: auto;
+}
+
+@media (max-width: 576px) {
+  #bdy .jumbotron {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 576px) {
+  #bdy {
+    padding: 10px;
+  }
+}
+
+.done {
+  padding: 60px 0;
+}
+
+#GN p {
+  font-size: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#p11 {
+  font-size: 17px;
+}
+
+#Why .item i {
+  font-size: 45px;
+}
+
+#GN h1 {
+  padding: 20px;
+}
+
+#Why h1 {
+  padding: 20px;
+  padding-top: 0px;
+}
+
+@media (max-width: 576px) {
+  #r {
+    display: inline;
+    text-align: center;
+    margin: auto;
+  }
+}
+
+@media (max-width: 576px) {
+  #c1 {
+    margin: auto;
+    max-width: 800px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  #c2 {
+    margin: auto;
+    max-width: 800px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  #c3 {
+    margin: auto;
+    max-width: 800px;
+  }
+}
+
+#Why h2 {
+  font-size: 25px;
+}
+
+#d2 {
+  background-color: rgb(205,197,255);
+  padding-bottom: 0px;
+}
+
+#bdy {
+  margin-top: 100px;
+}
+
+#lg {
+  max-height: 42px;
+  margin-right: 10px;
+  margin-top: -3px;
+  display: inline-block;
+}
+
+@media (max-width: 576px) {
+  #r2 {
+    display: inline;
+    text-align: center;
+    margin: auto;
+  }
+}
+
+@media (max-width: 576px) {
+  #imm {
+    margin: auto;
+    max-width: 650px;
+    padding-right: 35px;
+    margin-bottom: 25px;
+  }
+}
+
+@media (max-width: 576px) {
+  #bgf {
+    max-width: 100%;
+  }
+}
+
